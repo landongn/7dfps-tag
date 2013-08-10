@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FPSController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script Components/FPSRunWalk.js">
     <Files>
-      <File FileName="Assets/FPSController.cs" Line="12" Column="22" />
+      <File FileName="Assets/Script Components/FPSRunWalk.js" Line="154" Column="46" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
