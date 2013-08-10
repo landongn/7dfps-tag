@@ -21,7 +21,7 @@ public class FPSController : MonoBehaviour {
 			
 			//figure out where the current mouselook is looking
 			Vector3 targetVelocity = new Vector3(Input.GetAxis ("Horizontal"), 0, Input.GetAxis ("Vertical"));
-		
+			
 			//point that input to the current camera transform
 			targetVelocity = cam.transform.TransformDirection (targetVelocity);
 			
